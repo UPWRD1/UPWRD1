@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UPWRD.
 - 👀 I’m interested in programming language development, as well as the Discord libraries for python and javascript.
-- 🌱 I’m currently learning c and javascript.
+- 🌱 I’m currently learning C.
 - 💞️ I’m looking to collaborate on my passion project, Motion.
 
 <!---
